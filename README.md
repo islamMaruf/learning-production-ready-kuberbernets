@@ -154,7 +154,8 @@ A **complete production-grade e-commerce application** featuring:
 - All services deployed
 
 ---
-
+## Github repo
+https://github.com/islamMaruf/retail-store-sample-app
 ## 🛠️ Technology Stack
 
 | Category | Technology |
